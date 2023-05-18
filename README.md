@@ -1,3 +1,5 @@
 # java
 
-Exercício 1 (Implementação em C)#include <stdio.h>int main() {char *nome, *objetivos;int idade;nome = "Gustavo Avellar";idade = 28;objetivos  = "ensinar POO usando Java";printf("Olá, meu nome é %s", nome);printf(", tenho %i anos", idade);printf(" e o meu objetivo é %s.", objetivos);return 0;}
+Exercício 1
+
+![image](https://github.com/Ranero189/java/assets/110306388/b4fde058-67f3-4abd-b83b-82a1be044d94)
