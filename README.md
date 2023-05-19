@@ -20,3 +20,14 @@
 
 ![image](https://github.com/Ranero189/java/assets/110306388/db144164-2390-4a58-be56-7041afb899f6)
 
+![image](https://github.com/Ranero189/java/assets/110306388/bd0c40d0-ea30-4421-a83a-db8288982a13)
+
+![image](https://github.com/Ranero189/java/assets/110306388/a84afd1f-5206-40db-ad19-971876be4163)
+
+![image](https://github.com/Ranero189/java/assets/110306388/62b34b86-55e8-4735-85ac-513d6a6ad588)
+
+![image](https://github.com/Ranero189/java/assets/110306388/3e403078-8e0c-4edd-a0a3-dfecdf815c7f)
+
+![image](https://github.com/Ranero189/java/assets/110306388/a1c4f947-4071-4dd6-801a-54cb29dc6ebe)
+
+![image](https://github.com/Ranero189/java/assets/110306388/9fea41ed-b9c7-41cf-b300-1467bb847204)
