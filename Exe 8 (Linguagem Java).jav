@@ -2,7 +2,7 @@ public class Main
 {
 	public static void main(String[] args) {
 	    
-		Agencia agencia = new Agencia("Agência Central", 1234);
+	Agencia agencia = new Agencia("Agência Central", 1234);
         Conta conta = new Conta(5678, 1000.0);
         Cliente cliente = new Cliente("Fulano", "123.456.789-00", agencia, conta);
         CartaoCredito cartao1 = new CartaoCredito(1111, 2000.0);
